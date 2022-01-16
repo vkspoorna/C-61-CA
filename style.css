@@ -1,0 +1,57 @@
+.menu{
+  
+  
+  background: white;
+    width: 100%;
+    margin-top: 0px; 
+    position: fixed;
+    top: 0px;
+    z-index:10;
+}
+
+
+.links{
+    
+
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+body {
+    margin: 50;
+    text-align: center;
+    background:linear-gradient(#f4c2c2 0%, white 100%);
+}
+img{
+  height:200px;
+  border-radius:50%;
+  border:black solid;
+}
+#intro{
+  padding-left:500px;
+  padding-right:500px;
+  line-height:2;
+  font-size:18px;
+}
+#brand{
+  font-size:100px;
+  font-family: 'Are You Serious', cursive;
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+#writings a{
+    text-shadow: none !important;
+    text-decoration: underline !importat; 
+    color: blue !important;
+}
+#Contact{
+    background: firebrick;
+}
+.contact_1 h3
+{ display: inline; }
+.contact_1 a
+{ color: white; text-shadow: none; }
